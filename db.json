@@ -1,14 +1,25 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+	"resoursedetail": [{
+			"client": "GE Energy",
+			"resources": [{
+				"name": "Rakesh",
+				"skills": "UI Developer"
+			},{
+				"name": "Rakesh2",
+				"skills": "UI Developer"
+			}]
+		},
+		{
+			"client": "GE Oil and Gas",
+			"resources": [{
+					"name": "Dilip",
+					"skills": "UI Developer"
+				},
+				{
+					"name": "mamtha",
+					"skills": "UI Developer"
+				}
+			]
+		}
+	]
+}]
